@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.avatar{
+    width: auto;
+    height: 400px;
+    border-radius: 25px;
+}  
+.card{
+    width: 640px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: space-around;
+    background: #ddebf8;
+    border-radius: 20px;
+    color: #2b2839;
+    border-bottom: 12px solid #d8cefe;
+    box-shadow: 5px 10px 5px rgb(92,65,65);
+}
+.card2{
+    margin-left: 20px;
+    padding:20px;
+
+}
